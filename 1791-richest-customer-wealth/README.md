@@ -42,37 +42,15 @@ The 2nd customer is the richest with a wealth of 10.</pre>
 	<li><code>1 &lt;= accounts[i][j] &lt;= 100</code></li>
 </ul>
 
- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Irfan Shaikh</title>
+<ul>
+    <li><code>m == accounts.length</code></li>
+    <li><code>n == accounts[i].length</code></li>
+    <li><code>1 &lt;= m, n &lt;= 50</code></li>
+    <li><code>1 &lt;= accounts[i][j] &lt;= 100</code></li>
+</ul>
 
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-family: Arial, sans-serif;
-            background: #f4f4f4;
-        }
+<hr>
 
-        .author {
-            font-size: 30px;
-            font-weight: bold;
-            color: #222;
-        }
-    </style>
-</head>
-
-<body>
-
-    <div class="author">
-        By Irfan Shaikh
-    </div>
-
-</body>
-</html>
+<p style="text-align: center; font-size: 20px; font-weight: bold;">
+    By Irfan Shaikh
+</p>
