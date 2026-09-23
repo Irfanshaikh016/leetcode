@@ -41,3 +41,5 @@ The 2nd customer is the richest with a wealth of 10.</pre>
 	<li><code>1 &lt;= m, n &lt;= 50</code></li>
 	<li><code>1 &lt;= accounts[i][j] &lt;= 100</code></li>
 </ul>
+--------------------------
+BY IRFAN SHAIKH
