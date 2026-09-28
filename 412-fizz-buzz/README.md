@@ -23,4 +23,8 @@
 
 <ul>
 	<li><code>1 &lt;= n &lt;= 10<sup>4</sup></code></li>
-</ul>
+</ul> 
+
+<p style="text-align: center; font-size: 20px; font-weight: bold;">
+    By Irfan Shaikh
+</p>
